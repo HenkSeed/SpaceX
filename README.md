@@ -5,8 +5,8 @@
 - HTML
 - CSS
 - Java Script
-- 
 
 Библиотеки:
+
 VidBG
 Rellax
